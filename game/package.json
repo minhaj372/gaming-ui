@@ -1,0 +1,16 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-scss": "^4.4.1",
+    "readmore-js": "^2.2.1",
+    "vue-slick-carousel": "file:node_modules/vue-slick-carousel"
+  }
+}
